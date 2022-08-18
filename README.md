@@ -23,3 +23,18 @@ Research has shown that listening to music can reduce anxiety, blood pressure, a
 - Retrofit
 - GSON
 - Kotlin Coroutines
+
+# Demo video
+![demo gif](https://github.com/koushikjoshi/faciaro/blob/master/Resources/demo_gif.gif)
+
+## Screenshots
+<table>
+  <tr>
+     <td>Screenshot 1</td>
+     <td>Screenshot 2</td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/koushikjoshi/faciaro/blob/master/Resources/img1.jpg" width=270 height=480></td>
+    <td><img src="https://github.com/koushikjoshi/faciaro/blob/master/Resources/img2.jpg" width=270 height=480></td>
+  </tr>
+ </table>
