@@ -38,3 +38,7 @@ Research has shown that listening to music can reduce anxiety, blood pressure, a
     <td><img src="https://github.com/koushikjoshi/faciaro/blob/master/Resources/img2.jpg" width=270 height=480></td>
   </tr>
  </table>
+
+### Author - Koushik Joshi
+- [Twitter](https://twitter.com/koushikjoshi)
+- [LinkedIn](https://www.linkedin.com/in/koushikjoshi/)
